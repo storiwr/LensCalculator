@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DCA6641D251F883A00FBE4D6 /* Lens_CalculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA6641C251F883A00FBE4D6 /* Lens_CalculatorApp.swift */; };
+		DCA6641D251F883A00FBE4D6 /* LensCalculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA6641C251F883A00FBE4D6 /* LensCalculatorApp.swift */; };
 		DCA6641F251F883A00FBE4D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA6641E251F883A00FBE4D6 /* ContentView.swift */; };
 		DCA66421251F883A00FBE4D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCA66420251F883A00FBE4D6 /* Assets.xcassets */; };
 		DCA66424251F883A00FBE4D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCA66423251F883A00FBE4D6 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		DCA66419251F883A00FBE4D6 /* Lens Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lens Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DCA6641C251F883A00FBE4D6 /* Lens_CalculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lens_CalculatorApp.swift; sourceTree = "<group>"; };
+		DCA6641C251F883A00FBE4D6 /* LensCalculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LensCalculatorApp.swift; sourceTree = "<group>"; };
 		DCA6641E251F883A00FBE4D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DCA66420251F883A00FBE4D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCA66423251F883A00FBE4D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		DCA6641B251F883A00FBE4D6 /* Lens Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				DCA6641C251F883A00FBE4D6 /* Lens_CalculatorApp.swift */,
+				DCA6641C251F883A00FBE4D6 /* LensCalculatorApp.swift */,
 				DCA6641E251F883A00FBE4D6 /* ContentView.swift */,
 				DCA66420251F883A00FBE4D6 /* Assets.xcassets */,
 				DCA66425251F883A00FBE4D6 /* Info.plist */,
@@ -139,7 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DCA6641F251F883A00FBE4D6 /* ContentView.swift in Sources */,
-				DCA6641D251F883A00FBE4D6 /* Lens_CalculatorApp.swift in Sources */,
+				DCA6641D251F883A00FBE4D6 /* LensCalculatorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

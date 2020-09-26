@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Lens_CalculatorApp: App {
+struct LensCalculatorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
